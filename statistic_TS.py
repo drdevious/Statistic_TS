@@ -4,6 +4,8 @@
 ### DGF 4/7/2013 ###
 ####################
 
+### per windows ###
+
 import os
 import re
 import sys
