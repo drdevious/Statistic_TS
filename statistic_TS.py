@@ -417,6 +417,3 @@ if __name__ == '__main__':
         DayTimeControlSlaFlcahq(PATH_EXTRACT_DAY_DIR)
         DayTimeControlSlaFlcaperTot(PATH_EXTRACT_DAY_DIR)
         DayTimeControlSlaFltsperTot(PATH_EXTRACT_DAY_DIR)
-           
-              
-    
