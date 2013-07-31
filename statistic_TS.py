@@ -30,11 +30,11 @@ PATH_ZIP_MONTH_DIR = "C:\FTP\statitt"
 PATH_EXTRACT_DAY_DIR = PATH_ZIP_DAY_DIR+"\\Unziped"
 PATH_EXTRACT_MONTH_DIR = PATH_ZIP_MONTH_DIR+"\\unziped"
 ZIPNAME = "PIPPO.zip"
-MSG_FROM = "statistic_caop@ittelecom.it"
-RECIPIENT = "dario.frascatani@guest.telecomitalia.it"
-RECIPIENT1 = "bernardo1.morra@guest.telecomitalia.it"
+MSG_FROM = "pippo@pippo.it"
+RECIPIENT = "pippo1@pippo1.it"
+RECIPIENT1 = "pippo2@pippo2.it"
 #RECIPIENT2 = "esercizio-ca@telecomitalia.it"
-MAILSERVER = "10.11.43.149"
+MAILSERVER = "1.1.1.1"
 
 ### costanti per gli SLA ###
 SLA_FLCAHQ = 5
