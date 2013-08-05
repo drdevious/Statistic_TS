@@ -34,7 +34,6 @@ PATH_EXTRACT_MONTH_DIR = PATH_ZIP_MONTH_DIR+"\\unziped"
 MSG_FROM = "pippo@pippo.it"
 RECIPIENT = "pippo1@pippo1.it"
 RECIPIENT1 = "pippo2@pippo2.it"
-#RECIPIENT2 = "esercizio-ca@telecomitalia.it"
 MAILSERVER = "1.1.1.1"
 
 ### costanti per gli SLA ###
